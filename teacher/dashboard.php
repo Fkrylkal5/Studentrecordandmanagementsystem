@@ -1,0 +1,3 @@
+<?php
+// Teacher dashboard content
+?>
